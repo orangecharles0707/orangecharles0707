@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Chau 👋
 
-<!--
-**orangecharles0707/orangecharles0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Brief Introduction]
 
-Here are some ideas to get you started:
+I am a year 1 student who study in Machanical Engineering in POLYU. I have obtained a higher diaploma in Electronic and communication engineering in IVE in 2021.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objective 
+I would like to have practical experience in related field not only fulfill the policy of Work-integrated Education ,but also i would like to earn the knowledge outside a classroom. 
+
+##
+Knowledges 
+Fundamental AI and Data Analytics 
+The fundamental of C Programming ,Python
+
+##Academic Projects 
+-Smart Garden (Final year project in IVE)
+-Application project for computing fractions (Year 1 in POLYU)
