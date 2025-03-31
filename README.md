@@ -11,6 +11,9 @@ I would like to have practical experience in related field not only fulfill the 
  -Fundamental AI and Data Analytics 
  -The fundamental of C Programming ,Python
 
-## Academic Projects 
- -Smart Garden (Final year project in IVE)
- -Application project for computing fractions (Year 1 in POLYU)
+## Academic Projects
+-Smart Garden (Final year project in IVE) 
+-Application project for computing fractions (Year 1 in POLYU)
+
+
+
