@@ -1,7 +1,7 @@
 ## Hello, I'm Chau 👋
 
 
-- <a href ="https://www.linkedin.com/in/yc-yeung-5a1273359/"></a>
+<a href ="https://www.linkedin.com/in/yc-yeung-5a1273359/"></a>
 [Brief Introduction]
 I am a year 1 student who study in Machanical Engineering in POLYU. I have obtained a higher diaploma in Electronic and communication engineering in IVE in 2021.  
 
